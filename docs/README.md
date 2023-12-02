@@ -1,6 +1,8 @@
 # Deadcell's concept brought to life
 Design credits go to https://github.com/EternityX/DEADCELL-GUI
 
+For custom work - https://t.me/gt_current
+
 50 stars and will release more stuff
 
 Preview - 
